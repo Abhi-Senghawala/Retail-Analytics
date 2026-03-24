@@ -37,7 +37,7 @@ const COLORS = ["#3b82f6", "#10b981", "#f59e0b", "#ef4444"];
 const Dashboard = () => {
   return (
     <div>
-      <h1 className="mb-6 text-2xl font-bold text-gray-800 dark:text-white">
+      <h1 className="mb-6 text-2xl font-bold text-gray-800 text-center dark:text-white">
         Analytics Dashboard
       </h1>
 
